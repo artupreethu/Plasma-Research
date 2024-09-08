@@ -1,4 +1,4 @@
-# Plasma-Research-Py-Files
+# Plasma-Research
 
 Python codes used for processing plasma density data from Hermes-3 simulations.
 Azimuthal, axial, and radial profiles show how the electron density is distributed over each axis.
